@@ -6,3 +6,4 @@ This is my first remote Git repository.
 - Learn GitHub
 - Work with remote repositories
 - Practice collaboration
+This line was added from my Kali Linux computer.
