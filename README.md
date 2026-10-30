@@ -1,1 +1,8 @@
-# test-demo
+# DevOps Git TP
+
+This is my first remote Git repository.
+
+## Objectives
+- Learn GitHub
+- Work with remote repositories
+- Practice collaboration
